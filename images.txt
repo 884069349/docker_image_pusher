@@ -7,4 +7,4 @@ kibana:7.17.21
 mongo:6.0.15
 emqx/emqx:5.7.0
 neo4j:5.20.0
- 
+snowdreamtech/frps:0.58.0
