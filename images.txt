@@ -1,10 +1,10 @@
-1panel/openresty:1.21.4.3-3-2-focal
-nginx
-mysql:8.0.37
-redis:7.2.5
-elasticsearch:7.17.21
-kibana:7.17.21
-mongo:6.0.15
-emqx/emqx:5.7.0
-neo4j:5.20.0
+# 1panel/openresty:1.21.4.3-3-2-focal
+# nginx
+# mysql:8.0.37
+# redis:7.2.5
+# elasticsearch:7.17.21
+# kibana:7.17.21
+# mongo:6.0.15
+# emqx/emqx:5.7.0
+# neo4j:5.20.0
 snowdreamtech/frps:0.58.0
