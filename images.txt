@@ -11,6 +11,7 @@
 # halohub/halo-pro:2.16.4
 # tiangolo/nginx-rtmp
 # xiaoyaliu/alist
-openjdk:11
-openjdk:17
+# openjdk:11
+# openjdk:17
+xhofe/alist
 
