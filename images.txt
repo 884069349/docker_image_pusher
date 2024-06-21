@@ -10,4 +10,7 @@
 # snowdreamtech/frps:0.58.0
 # halohub/halo-pro:2.16.4
 # tiangolo/nginx-rtmp
-xiaoyaliu/alist
+# xiaoyaliu/alist
+openjdk:11
+openjdk:17
+
