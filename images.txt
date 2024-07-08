@@ -15,4 +15,4 @@
 # openjdk:17
 # xhofe/alist
 # nacos/nacos-server
-rabbitmq
+rabbitmq:3.13.3-management-alpine
