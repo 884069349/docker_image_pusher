@@ -17,5 +17,5 @@
 # nacos/nacos-server
 # rabbitmq:3.13.3-management-alpine
 # sonarqube
-# postgresql:16.3-alpine
-sonarqube:10.6.0-community
+postgres:16.3-alpine
+# sonarqube:10.6.0-community
