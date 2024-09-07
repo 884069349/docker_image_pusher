@@ -21,4 +21,5 @@
 # sonarqube:10.6.0-community
 # nodered/node-red
 # nacos/nacos-server:v2.4.0
-squidfunk/mkdocs-material
+# squidfunk/mkdocs-material
+jumpserver/jms_all:v3.10.12
