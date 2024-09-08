@@ -29,8 +29,8 @@
 # jc21/nginx-proxy-manager:2.11.3
 # mongo:6.0.16
 louislam/uptime-kuma:1
-
+louislam/uptime-kuma:1.23.13
 # elasticsearch:7.17.23
 # 1panel/openresty:1.21.4.3-3-3-focal
 # frooodle/s-pdf:0.28.3
-sickcodes/docker-osx
+# sickcodes/docker-osx
