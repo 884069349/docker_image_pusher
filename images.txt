@@ -34,4 +34,5 @@
 # 1panel/openresty:1.21.4.3-3-3-focal
 # frooodle/s-pdf:0.28.3
 # sickcodes/docker-osx
-snowdreamtech/frps:0.60.0
+# snowdreamtech/frps:0.60.0
+openp2pcn/openp2p-client
